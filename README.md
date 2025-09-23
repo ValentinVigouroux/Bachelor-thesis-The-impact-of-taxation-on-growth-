@@ -1,6 +1,6 @@
 # Introduction
 
-Ce travail de recherche a été réalisé dans le cadre de ma Licence en économie à l'Université Clermont Auvergne. Il étudie l’effet linéaire des recettes fiscales (rapportées au PIB) sur la croissance économique. Cette étude a été réalisée sur Eviews. 
+Ce travail de recherche a été réalisé dans le cadre de ma Licence en économie à l'Université Clermont Auvergne. Il étudie l’effet linéaire des recettes fiscales (rapportées au PIB) sur la croissance économique. **Cette étude a été réalisée sur Eviews.** 
 
 # Limites
 
