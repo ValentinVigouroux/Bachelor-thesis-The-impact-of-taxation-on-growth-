@@ -7,9 +7,13 @@ Ce travail de recherche a été réalisé dans le cadre de ma Licence en économ
 Ce projet constitue une première expérience en économétrie de la croissance et présente plusieurs limites :
 
 • Endogénéité non traitée : causalité inverse possible entre croissance et fiscalité, investissement et croissance, etc.
+
 • Structure des données : utilisation d’une coupe transversale alors qu’un panel permettrait de capter la variabilité intertemporelle des variables.
+
 • Gestion des valeurs aberrantes : traitement global, alors qu’il serait pertinent de limiter l’ajustement à la Guinée équatoriale, seul outlier notable (taux de croissance exceptionnel de 200 % dû à une production record de pétrole et à la petite taille de l’économie).
+
 • Hétérogénéité fiscale non considérée : absence de spécifications permettant d’apprécier les différences entre systèmes fiscaux.
+
 • Confusion entre recettes fiscales et revenus dans certaines analyses.
 
 # Conclusion
