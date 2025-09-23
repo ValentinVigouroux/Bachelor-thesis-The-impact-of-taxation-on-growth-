@@ -19,3 +19,5 @@ Ce projet constitue une première expérience en économétrie de la croissance 
 # Conclusion
 
 Nos résultats indiquent un effet linéaire légèrement négatif mais peu significatif du taux de recettes fiscales sur la croissance à long terme. En décomposant l’effet des différentes taxes, aucun impact significatif sur la croissance n’a été observé. L’étude d’une relation non linéaire entre recettes fiscales et croissance suggère une forme en U, probablement due à une spécification inappropriée du modèle. En conséquence, nos résultats ne peuvent pas être interprétés de manière définitive, en raison des limites méthodologiques évoquées ci-dessus.
+
+Ce travail m'a permis de construire un socle de compétences en économétrie et Eviews 
