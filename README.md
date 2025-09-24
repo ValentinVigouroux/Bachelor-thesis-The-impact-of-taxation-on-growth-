@@ -6,7 +6,7 @@ Ce travail de recherche a été réalisé dans le cadre de ma Licence en économ
 
 Ce projet constitue une première expérience en économétrie de la croissance et présente plusieurs limites :
 
-• Endogénéité non traitée : causalité inverse possible entre croissance et fiscalité, investissement et croissance, etc.
+• Endogénéité non traitée : causalité inverse entre croissance et fiscalité, investissement et croissance, etc.
 
 • Structure des données : utilisation d’une coupe transversale alors qu’un panel permettrait de capter la variabilité intertemporelle des variables.
 
